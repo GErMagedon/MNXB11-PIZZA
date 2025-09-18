@@ -24,3 +24,11 @@ Preparing the Pizza:
 10) add the toppings
 11) Sprinkle the cheese evenly
 12) sprinkle the seasoning
+
+Make the Pizza.
+(Daniel)
+
+1) Warm upp the owen on 250 degres.
+2) Put in the Pizza and let it stay in the owen ca 10 minutes.
+3) Tacke it out and let it coll down litle.
+4) It shal be served warm with Pizza sallad.
