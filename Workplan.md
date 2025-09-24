@@ -1,4 +1,13 @@
-Step 2: Groceries list
+Cool logo
+Responsible: German Luzin
+ ____ ___ __________   _      ____  _____ ____ ___ ____  _____ 
+|  _ \_ _|__  /__  /  / \    |  _ \| ____/ ___|_ _|  _ \| ____|
+| |_) | |  / /  / /  / _ \   | |_) |  _|| |    | || |_) |  _|  
+|  __/| | / /_ / /_ / ___ \  |  _ <| |__| |___ | ||  __/| |___ 
+|_|  |___/____/____/_/   \_\ |_| \_\_____\____|___|_|   |_____|
+
+
+Groceries list
 Responsible: Ana Rita Rodrigues
 
 - Flour 
@@ -11,6 +20,7 @@ Responsible: Ana Rita Rodrigues
 - seasoning (oregano)
 
 Preparing the Pizza:
+Responsible: Marcus O'Riordan
 
 1) In a large bowl mix the flour, salt, and a tablespoon of yeast
 2) Add around 200ml of water per 300g of flour
@@ -25,8 +35,8 @@ Preparing the Pizza:
 11) Sprinkle the cheese evenly
 12) sprinkle the seasoning
 
-Make the Pizza.
-(Daniel)
+Serving the Pizza.
+Responsible: Daniel Stalhammar
 
 1) Warm upp the owen on 200 degres.
 2) Put in the Pizza and let it stay in the owen ca 10 minutes.
